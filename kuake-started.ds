@@ -1,0 +1,12 @@
+(if (is (window_name) 'Kuake-console')
+  (begin
+    (undecorate)
+    (geometry '340x340+0+0')
+    (maximize_horizontally)
+    (skip_tasklist)
+    (pin)
+    (above)
+    (quit)
+  )
+)
+
