@@ -1,0 +1,7 @@
+(if (is (window_name) 'Kuake-console')
+  (begin
+    (minimize)
+    (quit)
+  )
+)
+
